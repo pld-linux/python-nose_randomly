@@ -8,7 +8,7 @@ Summary:	Nose plugin to randomly order tests and control random.seed
 Summary(pl.UTF-8):	Wtyczka nose do losowania kolejności testów oraz sterowania random.seed
 Name:		python-nose_randomly
 Version:	1.2.6
-Release:	4
+Release:	5
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/nose-randomly/
